@@ -1,4 +1,4 @@
-Hi, I’m @Farhad-Iskandarov
+Hi, I’m @Farhad-Iskandarov (theferhadd)
 
 <!---
 Farhad-Iskandarov/Farhad-Iskandarov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
